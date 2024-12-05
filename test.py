@@ -1,1 +1,5 @@
 print('hello world!')
+print('hello world!')
+print('hello world!')
+print('time is great!')
+print('text!')
